@@ -1,2 +1,2 @@
 # EXPLab - Programmable Multi FX Pedal
-A DIY multi FX expression pedal one can program it's own guitar effects. Built around an RP2040.
+A DIY multi FX expression pedal to program custom guitar effects. Built around an RP2040.
